@@ -70,13 +70,3 @@ There are several ways to inform a client as to the availability of a file on a
     Yours,
   
     David E. Weekly
-    
-    <div class="powerpress_player" id="powerpress_player_9883">
-      <a href="http://downunder.com.au/mirrors/ms/funny.mov" title="Play" target="_blank" style="position: relative;"><img src="https://blog.dweek.ly/wp-content/plugins/powerpress/black.png" title="Play" alt="Play" style="width: 640px; height: 480px;" /><img src="https://blog.dweek.ly/wp-content/plugins/powerpress/play_video.png" title="Play" alt="Play" style="position: absolute; bottom:210px; left:290px; border:0;" /></a>
-    </div>
-    
-    <p class="powerpress_links powerpress_links_mov">
-      Podcast: <a href="http://downunder.com.au/mirrors/ms/funny.mov" class="powerpress_link_pinw" target="_blank" title="Play in new window" onclick="return powerpress_pinw('https://blog.dweek.ly/?powerpress_pinw=78-podcast');" rel="nofollow">Play in new window</a> | <a href="http://downunder.com.au/mirrors/ms/funny.mov" class="powerpress_link_d" title="Download" rel="nofollow" download="funny.mov">Download</a>
-    </p>
-    
-    <!--powerpress_player-->
