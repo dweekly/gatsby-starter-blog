@@ -54,6 +54,10 @@ const SEO = ({ description, lang, meta, title }) => {
           content: `website`,
         },
         {
+          name: 'p:domain_verify',
+          content: '50c3ec42c8e8a08c16a12cc278a748f7',
+        },
+        {
           name: `twitter:card`,
           content: `summary`,
         },

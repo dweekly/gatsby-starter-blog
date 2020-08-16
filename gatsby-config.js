@@ -6,9 +6,12 @@ module.exports = {
       summary: `who likes to start things.`,
     },
     description: `A place for David to share ideas.`,
-    siteUrl: `https://dweekly.netlify.app/`,
+    siteUrl: `https://david.weekly.org/`,
     social: {
       twitter: `dweekly`,
+      facebook: `dweekly`,
+      linkedin: `dweekly`,
+      angellist: `dweekly`
     },
   },
   plugins: [

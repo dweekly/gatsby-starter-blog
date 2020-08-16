@@ -29,6 +29,9 @@ const Bio = () => {
           }
           social {
             twitter
+            facebook
+            linkedin
+            angellist
           }
         }
       }
@@ -57,10 +60,19 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong> {author.summary}
+        By <strong>{author.name}</strong> {author.summary}
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          Twitter
+        </a>,
+        <a href={`https://fb.me/${social.facebook}`}>
+          Facebook
+        </a>,
+        <a href={`https://www.linkedin.com/in/${social.linkedin}`}>
+          LinkedIn
+        </a>,
+        <a href={`https://angel.co/${social.angellist}`}>
+          AngelList
         </a>
       </p>
     </div>
