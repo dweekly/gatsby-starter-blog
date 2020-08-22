@@ -12,9 +12,9 @@ categories:
 ---
 _sponsored by [Audio Explosion][1]_
 
-The Japan-based [Kobe Steel][2] has apparently entered into a licensing agreement with NTT (Nippon Telephone & Telegraph, basically Japan&#8217;s AT&T) for rights to use the [TwinVQ][3]
+The Japan-based [Kobe Steel][2] has apparently entered into a licensing agreement with NTT (Nippon Telephone & Telegraph, basically Japan&#8217;s AT&T) for rights to use the [TwinVQ][3]
   
-codec in a portable digital audio player called &#8220;[SolidAudio][4].&#8221; TwinVQ, also known by its file extension .VQF, was developed separately from MP3 technology. This is in
+codec in a portable digital audio player called &#8220;[SolidAudio][4].&#8221; TwinVQ, also known by its file extension .VQF, was developed separately from MP3 technology. This is in
   
 contrast to AAC, which extends MP3 technology. While AAC has a small
   
@@ -22,9 +22,9 @@ technical edge over TwinVQ, both sound distinctively better than
   
 MP3 at equivalent bitrates.
 
-I got a chance to test out the prototype SolidAudio player and interview one of the DSP engineers, Toshiaki Shimoda, about a week ago. I brought both my Rio and my friend Nathan Schmidt (hardware guru) to the interview: both proved very useful in making comparisons between the devices. While Toshi (as he liked to be called) didn&#8217;t let us take pictures, we were allowed to measure the device and play around with it. It was roughly the size of a credit card and was half the thickness of the Rio. The device comes with a very cute docking station for recharging the internal lithium ion battery.
+I got a chance to test out the prototype SolidAudio player and interview one of the DSP engineers, Toshiaki Shimoda, about a week ago. I brought both my Rio and my friend Nathan Schmidt (hardware guru) to the interview: both proved very useful in making comparisons between the devices. While Toshi (as he liked to be called) didn&#8217;t let us take pictures, we were allowed to measure the device and play around with it. It was roughly the size of a credit card and was half the thickness of the Rio. The device comes with a very cute docking station for recharging the internal lithium ion battery.
 
-It uses [SmartMedia][5] flash cards to store the .VQF files, obviating the need for a direct PC link. Toshi demonstrated loading the flash card into a special, hollow floppy disk
+It uses [SmartMedia][5] flash cards to store the .VQF files, obviating the need for a direct PC link. Toshi demonstrated loading the flash card into a special, hollow floppy disk
   
 to make a computer believe that the flash is actually a
   
@@ -50,7 +50,7 @@ anything. Yet. Toshi suggested that they could serve a
   
 variety of purposes in the production release, although
   
-Kobe had not yet fully decided what functionality to incorporate. The output is through a supertiny headphone jack, a form factor becoming popular in Japan. Toshi had a converter on hand for US headphones, thankfully.
+Kobe had not yet fully decided what functionality to incorporate. The output is through a supertiny headphone jack, a form factor becoming popular in Japan. Toshi had a converter on hand for US headphones, thankfully.
 
 The sound quality from the player was excellent. We loaded
   
@@ -90,7 +90,7 @@ holds equally for other codecs, such as AAC. This technology
   
 might also enable new encryption formats, like
   
-[AudioSoft][6]&#8216;s ASFS, ([soon to be integrated][7] into [Winamp][8])
+[AudioSoft][6]&#8216;s ASFS, ([soon to be integrated][7] into [Winamp][8])
   
 to be incorporated to allow playback of protected music. As such,
   
@@ -116,7 +116,7 @@ their own portable digital audio player, this would give Kobe
   
 a virtual monopoly on the portable VQF market.
   
-The player is expected to cost just under $200 when it comes out in Japan, and be even cheaper by the time it hits US shores.
+The player is expected to cost just under $200 when it comes out in Japan, and be even cheaper by the time it hits US shores.
 
 It should be noted that the largest card available for the
   
@@ -148,7 +148,7 @@ audio distribution.
 
 Saehan Information System of Korea released the
   
-[MP-Man][9] about six months ago as the first solid-state MP3 player. Cute and technically
+[MP-Man][9] about six months ago as the first solid-state MP3 player. Cute and technically
   
 impressive, it turned the heads of several industry observers, but has
   
@@ -162,9 +162,9 @@ is sold at a few websites, but is generally not yet available
   
 in traditional retail outlets.
 
-[Diamond Multimedia][10], a US computer peripheral manufacturer, came out
+[Diamond Multimedia][10], a US computer peripheral manufacturer, came out
   
-with their portable [Rio][11] player a few weeks ago. The player will soon
+with their portable [Rio][11] player a few weeks ago. The player will soon
   
 be available in stores, thanks to Diamond&#8217;s preexisting relationships
   
@@ -172,7 +172,7 @@ with the retail sector. This marks the beginning of a new generation
   
 of consumer portable digital audio products. Diamond, as the first
   
-major US hardware firm to support MP3, [took flak][12] from the [RIAA][13] on the grounds of supporting piracy. Diamond [fired back][14] that the RIAA &#8220;had damaged Diamond&#8217;s credibility&#8221; and was guilty of &#8220;unlawful business practices.&#8221; While Diamond was not prevented from manufacturing their Rio device, prospective device manufacturers are taking care to approach the RIAA gingerly before coming to market, lest they be sued, too.
+major US hardware firm to support MP3, [took flak][12] from the [RIAA][13] on the grounds of supporting piracy. Diamond [fired back][14] that the RIAA &#8220;had damaged Diamond&#8217;s credibility&#8221; and was guilty of &#8220;unlawful business practices.&#8221; While Diamond was not prevented from manufacturing their Rio device, prospective device manufacturers are taking care to approach the RIAA gingerly before coming to market, lest they be sued, too.
 
  [1]: http://www.audioexplosion.com/
  [2]: http://www.kobelco.co.jp/indexe.htm
