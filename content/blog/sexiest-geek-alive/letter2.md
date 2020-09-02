@@ -1,6 +1,6 @@
 ---
 title: Sexiest Geek Alive - Letter 2
-date: 2000-02-20T19:04:09+00:00
+date: 2000-02-22
 redirects:
 - /writings/sexygeek-letter2.php3
 ---

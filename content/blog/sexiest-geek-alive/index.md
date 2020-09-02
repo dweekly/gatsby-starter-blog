@@ -2,7 +2,7 @@
 title: Sexiest Geek Alive
 author: dweekly
 type: post
-date: 2000-02-20T19:04:09+00:00
+date: 2000-02-25
 url: /sexiest-geek-alive/
 
 ---
@@ -12,7 +12,7 @@ Then on February 20th, I got [this letter](letter1).
 
 > Congratulations! Out of 16,709 entrants to the "Sexiest Geek Alive Contest," you have been selected to be one of the Top 500 Sexiest Geeks. We had a difficult time choosing among the 8,742 men and 7,967 women who filled out our questionnaire...
 
-I laughed and sent the message to some of my friends and mentioned it on [my mailing list](/updates). Two days later I was notified:
+I laughed and sent the message to some of my friends and mentioned it on [my mailing list](/updates/13). Two days later I was notified:
 
 > A reporter from Industry Standard may be contacting you about the Geek contest. We're narrowing the Top 500 down to a hundred and she wanted to interview my favorites. I added you to that list because I had read your [Playboy Online feature](http://web.archive.org/web/20000301223841/http://www.playboy.com/oncampus/feature/mp3/weekly1.html) and told her you were an "MP3 warrior."
 
